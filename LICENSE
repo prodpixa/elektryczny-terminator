@@ -1,0 +1,31 @@
+Elektryczny Terminator
+Copyright (c) 2026 Daniel Piksa. Wszelkie prawa zastrzeżone.
+
+Program (kod źródłowy, pliki wykonywalne, grafika i dokumentacja) jest chroniony prawem autorskim.
+
+1. Użytek prywatny i niekomercyjny
+Autor udziela bezpłatnej, niewyłącznej licencji na instalowanie i korzystanie z programu wyłącznie
+do celów prywatnych, edukacyjnych oraz niekomercyjnych.
+
+2. Użytek komercyjny
+Korzystanie z programu w celach komercyjnych (w tym instalowanie w przedsiębiorstwie, wykorzystywanie
+przez firmy i instytucje do zarządzania sprzętem) wymaga uzyskania odrębnej, pisemnej zgody Autora
+lub podpisania komercyjnej umowy licencyjnej.
+W celu uzyskania licencji komercyjnej, prosimy o kontakt pod adresem: prodpixa97@gmail.com
+
+3. Ograniczenia
+Zabrania się:
+a) sprzedaży, odsprzedaży, wynajmu lub sublicencjonowania programu podmiotom trzecim bez zgody Autora,
+b) modyfikowania, inżynierii wstecznej (reverse engineering) lub dekompilacji oprogramowania.
+Kod źródłowy może być przeglądany wyłącznie w celu weryfikacji bezpieczeństwa i działania programu.
+
+4. Wyłączenie odpowiedzialności
+Program jest dostarczany „tak jak jest”, bez jakiejkolwiek gwarancji, w tym gwarancji przydatności
+do określonego celu. Autor nie odpowiada za szkody (w tym utratę danych, zysków lub przestoje) wynikłe
+z używania programu. Program jest narzędziem pomocniczym i nie zastępuje obowiązków wynikających
+z obowiązujących przepisów prawa (w tym dotyczących badań sprzętu ochronnego).
+Użytkownik pozostaje wyłącznym administratorem i właścicielem danych wprowadzanych do programu.
+
+Program korzysta z bibliotek innych autorów udostępnionych na licencjach otwartych (MIT, Apache-2.0, BSD,
+ISC, Zlib, MPL-2.0, Unicode i innych). Ich lista znajduje się w pliku dokumentacja/licencje-bibliotek.md.
+Postanowienia tych licencji pozostają w mocy w odniesieniu do tych bibliotek.
